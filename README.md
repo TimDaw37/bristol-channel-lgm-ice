@@ -18,7 +18,8 @@ Live page: https://timdaw37.github.io/bristol-channel-lgm-ice/
 | DATED-1 | Hughes et al. 2016, *Boreas* 45(1), 1–45, doi:10.1111/bor.12142 | doi:10.1594/PANGAEA.848117 (CC BY 3.0) |
 | LGM best estimate | Batchelor et al. 2019, *Nature Communications* 10, 3713, doi:10.1038/s41467-019-11601-2 | https://osf.io/7jen3/ |
 | PaleoMIST 1.0 | Gowan et al. 2021, *Nature Communications* 12, 1199, doi:10.1038/s41467-021-21469-w | doi:10.1594/PANGAEA.905800 (CC BY 4.0) |
-| Relief | NOAA NCEI ETOPO 2022 | |
+| Relief (map) | EMODnet Digital Bathymetry DTM 2024, doi:10.12770/cf51df64-56f9-4a99-b1aa-36b8d7b743a1 | CC BY 4.0, not for navigation |
+| Relief (intro animation) | NOAA NCEI ETOPO 2022 | |
 | Coast | GSHHG 2.3.7 (Wessel & Smith 1996) | |
 
 Margins are reproduced from the cited datasets and remain the work of their authors.
